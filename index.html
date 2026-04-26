@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avis de Décès du Jour</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #f4f7f6;
+            --card-bg: rgba(255, 255, 255, 0.9);
+            --text-main: #2d3436;
+            --text-muted: #636e72;
+            --montpetit: #0984e3;
+            --montpetit-hover: #74b9ff;
+            --larin: #6c5ce7;
+            --larin-hover: #a29bfe;
+            --border-radius: 16px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+            color: var(--text-main);
+            min-height: 100vh;
+            padding: 2rem;
+            display: flex;
+            justify-content: center;
+        }
+
+        .container {
+            max-width: 1000px;
+            width: 100%;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 2rem;
+            background: var(--card-bg);
+            padding: 2rem;
+            border-radius: var(--border-radius);
+            box-shadow: 0 8px 32px rgba(31, 38, 135, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: #2d3436;
+            margin-bottom: 0.5rem;
+        }
+
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .badge {
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: white;
+        }
+        
+        .badge.montpetit { background: var(--montpetit); }
+        .badge.larin { background: var(--larin); }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: var(--border-radius);
+            padding: 1.5rem;
+            box-shadow: 0 8px 32px rgba(31, 38, 135, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border-left: 5px solid #ccc;
+        }
+
+        .card.montpetit-card { border-left-color: var(--montpetit); }
+        .card.larin-card { border-left-color: var(--larin); }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 40px rgba(31, 38, 135, 0.15);
+        }
+
+        .card-header { margin-bottom: 1.5rem; }
+
+        .card h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .card .date {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .btn {
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: 600;
+            transition: opacity 0.3s ease;
+        }
+
+        .btn:hover { opacity: 0.8; }
+        .btn.montpetit-btn { background: var(--montpetit); }
+        .btn.larin-btn { background: var(--larin); }
+
+        .empty-state {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 3rem;
+            background: var(--card-bg);
+            border-radius: var(--border-radius);
+            color: var(--text-muted);
+        }
+
+        @media (max-width: 600px) {
+            body { padding: 1rem; }
+            h1 { font-size: 1.8rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Derniers Avis de Décès</h1>
+            <p style="color: var(--text-muted);">Données mises à jour localement par le script</p>
+            <div class="legend">
+                <span class="badge montpetit">E. Montpetit & fils</span>
+                <span class="badge larin">J.A. Larin & Fils</span>
+            </div>
+        </header>
+
+        <div class="grid" id="avis-container">
+            <!-- Les cartes seront injectées ici par JavaScript -->
+        </div>
+    </div>
+
+    <!-- Chargement des données générées par le script Python -->
+    <script src="donnees_deces.js"></script>
+    <script>
+        const container = document.getElementById('avis-container');
+        
+        // Si la variable donneesDeces n'existe pas ou est vide
+        if (typeof donneesDeces === 'undefined' || donneesDeces.length === 0) {
+            container.innerHTML = `
+                <div class="empty-state">
+                    <h3>Aucun avis récent trouvé</h3>
+                    <p>Le script n'a détecté aucun nouveau décès récemment, ou il n'a pas encore été exécuté.</p>
+                </div>
+            `;
+        } else {
+            // Affichage des données
+            donneesDeces.forEach(avis => {
+                const isMontpetit = avis.salon.includes("Montpetit");
+                const cardClass = isMontpetit ? "montpetit-card" : "larin-card";
+                const btnClass = isMontpetit ? "montpetit-btn" : "larin-btn";
+                
+                // Formater la date en français
+                const dateObj = new Date(avis.date_deces);
+                const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+                const dateFr = dateObj.toLocaleDateString('fr-FR', options);
+                
+                const html = `
+                    <div class="card ${cardClass}">
+                        <div class="card-header">
+                            <h2>${avis.nom}</h2>
+                            <div class="date">📅 ${dateFr}</div>
+                            <div style="font-size: 0.8rem; margin-top: 5px; color: #888;">🏢 ${avis.salon}</div>
+                        </div>
+                        <a href="${avis.lien}" class="btn ${btnClass}" target="_blank" rel="noopener noreferrer">Consulter l'avis</a>
+                    </div>
+                `;
+                container.innerHTML += html;
+            });
+        }
+    </script>
+</body>
+</html>
