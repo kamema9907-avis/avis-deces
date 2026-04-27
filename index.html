@@ -15,6 +15,8 @@
             --montpetit-hover: #74b9ff;
             --larin: #6c5ce7;
             --larin-hover: #a29bfe;
+            --mcgerrigle: #e17055;
+            --mcgerrigle-hover: #fab1a0;
             --border-radius: 16px;
         }
 
@@ -74,6 +76,7 @@
         
         .badge.montpetit { background: var(--montpetit); }
         .badge.larin { background: var(--larin); }
+        .badge.mcgerrigle { background: var(--mcgerrigle); }
 
         .grid {
             display: grid;
@@ -97,6 +100,7 @@
 
         .card.montpetit-card { border-left-color: var(--montpetit); }
         .card.larin-card { border-left-color: var(--larin); }
+        .card.mcgerrigle-card { border-left-color: var(--mcgerrigle); }
 
         .card:hover {
             transform: translateY(-5px);
@@ -130,6 +134,7 @@
         .btn:hover { opacity: 0.8; }
         .btn.montpetit-btn { background: var(--montpetit); }
         .btn.larin-btn { background: var(--larin); }
+        .btn.mcgerrigle-btn { background: var(--mcgerrigle); }
 
         .empty-state {
             grid-column: 1 / -1;
@@ -155,6 +160,7 @@
             <div class="legend">
                 <span class="badge montpetit">E. Montpetit & fils</span>
                 <span class="badge larin">J.A. Larin & Fils</span>
+                <span class="badge mcgerrigle">McGerrigle</span>
             </div>
         </header>
 
@@ -180,8 +186,18 @@
             // Affichage des données
             donneesDeces.forEach(avis => {
                 const isMontpetit = avis.salon.includes("Montpetit");
-                const cardClass = isMontpetit ? "montpetit-card" : "larin-card";
-                const btnClass = isMontpetit ? "montpetit-btn" : "larin-btn";
+                const isLarin = avis.salon.includes("Larin");
+                
+                let cardClass = "mcgerrigle-card";
+                let btnClass = "mcgerrigle-btn";
+                
+                if (isMontpetit) {
+                    cardClass = "montpetit-card";
+                    btnClass = "montpetit-btn";
+                } else if (isLarin) {
+                    cardClass = "larin-card";
+                    btnClass = "larin-btn";
+                }
                 
                 // Formater la date en français
                 const dateObj = new Date(avis.date_deces);

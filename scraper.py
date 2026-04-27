@@ -157,6 +157,47 @@ def scrape_larin():
                 
     return nouveaux_avis
 
+def scrape_mcgerrigle():
+    print("Scraping McGerrigle...")
+    url = "https://www.mcgerrigle.com/category/avis-de-deces-obituaries/"
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    
+    response = requests.get(url, headers=headers)
+    if response.status_code != 200:
+        print("Erreur d'accès à McGerrigle")
+        return []
+        
+    soup = BeautifulSoup(response.text, 'html.parser')
+    nouveaux_avis = []
+    
+    # Trouver tous les titres h2 qui contiennent un lien
+    titres = soup.find_all('h2')
+    
+    for titre in titres:
+        link = titre.find('a')
+        if not link:
+            continue
+            
+        href = link.get('href')
+        nom = link.text.strip()
+        
+        # Pour McGerrigle, la date de publication est souvent dans l'URL : /2026/04/25/
+        match_date = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', href)
+        if match_date:
+            annee = int(match_date.group(1))
+            mois = int(match_date.group(2))
+            jour = int(match_date.group(3))
+            date_deces = datetime(annee, mois, jour)
+            
+            nouveaux_avis.append({
+                'nom': nom,
+                'date_deces': date_deces.strftime('%Y-%m-%d'),
+                'lien': href,
+                'salon': 'Résidence funéraire McGerrigle'
+            })
+            
+    return nouveaux_avis
+
 def main():
     print("Démarrage du scan quotidien...")
     existants = load_existing_data()
@@ -166,8 +207,9 @@ def main():
     
     avis_montpetit = scrape_montpetit()
     avis_larin = scrape_larin()
+    avis_mcgerrigle = scrape_mcgerrigle()
     
-    tous_les_nouveaux = avis_montpetit + avis_larin
+    tous_les_nouveaux = avis_montpetit + avis_larin + avis_mcgerrigle
     
     # Filtrer ceux qui datent de plus de 2 jours (pour être sûr de ne pas tout prendre)
     # ou garder seulement ceux du jour si vous préférez.
