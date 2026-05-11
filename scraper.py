@@ -211,23 +211,20 @@ def main():
     
     tous_les_nouveaux = avis_montpetit + avis_larin + avis_mcgerrigle
     
-    # Filtrer ceux qui datent de plus de 2 jours (pour être sûr de ne pas tout prendre)
-    # ou garder seulement ceux du jour si vous préférez.
-    aujourdhui = datetime.now()
-    limite = aujourdhui - timedelta(days=2) # Garder les 2 derniers jours au cas où
+    aujourdhui_str = datetime.now().strftime('%Y-%m-%d')
     
     ajouts = 0
     for avis in tous_les_nouveaux:
-        date_avis = datetime.strptime(avis['date_deces'], '%Y-%m-%d')
-        if date_avis >= limite and avis['lien'] not in liens_existants:
+        if avis['lien'] not in liens_existants:
+            avis['date_publication'] = aujourdhui_str
             existants.insert(0, avis) # Ajouter au début
             liens_existants.add(avis['lien'])
             ajouts += 1
             print(f"Nouveau décès trouvé : {avis['nom']} ({avis['salon']})")
             
     if ajouts > 0:
-        # Trier par date décroissante
-        existants.sort(key=lambda x: x['date_deces'], reverse=True)
+        # Trier par date de publication (ou date de deces si non disponible)
+        existants.sort(key=lambda x: x.get('date_publication', x.get('date_deces', '')), reverse=True)
         save_data(existants)
         print(f"Mise à jour terminée. {ajouts} nouvel(aux) avis ajouté(s).")
     else:
