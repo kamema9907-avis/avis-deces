@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "M. Robert Morin",
+        "date_deces": "2026-05-12",
+        "lien": "https://www.jalarin.com/obituaries/m-robert-morin-2/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-12"
+    },
+    {
+        "nom": "M. Paul-André Séguin",
+        "date_deces": "2026-05-12",
+        "lien": "https://www.jalarin.com/obituaries/m-paul-andre-seguin/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-12"
+    },
+    {
         "nom": "André Frappier, 1936–2023",
         "date_deces": "2023-12-06",
         "lien": "https://www.mcgerrigle.com/2023/12/06/andre-frappier-1936-2023/",
