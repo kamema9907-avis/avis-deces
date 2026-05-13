@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "M. Jacques Lefebvre",
+        "date_deces": "2026-05-12",
+        "lien": "https://www.jalarin.com/obituaries/m-jacques-lefebvre-2/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-13"
+    },
+    {
         "nom": "M. Robert Morin",
         "date_deces": "2026-05-12",
         "lien": "https://www.jalarin.com/obituaries/m-robert-morin-2/",
