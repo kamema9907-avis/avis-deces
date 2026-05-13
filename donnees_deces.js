@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Marielle Lafortune (Née Giroux)",
+        "date_deces": "2026-05-10",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/marielle-lafortune-nee-giroux",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-05-13"
+    },
+    {
         "nom": "M. Jacques Lefebvre",
         "date_deces": "2026-05-12",
         "lien": "https://www.jalarin.com/obituaries/m-jacques-lefebvre-2/",
