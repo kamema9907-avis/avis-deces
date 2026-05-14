@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Mme Doris Daigneault Boyer",
+        "date_deces": "2026-05-14",
+        "lien": "https://www.jalarin.com/obituaries/mme-doris-daigneault-boyer/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-14"
+    },
+    {
         "nom": "Réjeanne Chatel (Née Secours)",
         "date_deces": "2026-05-01",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/rejeanne-chatel-nee-secours",
