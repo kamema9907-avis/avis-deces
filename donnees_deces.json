@@ -1,5 +1,26 @@
 [
     {
+        "nom": "M. Lionel Roux",
+        "date_deces": "2026-05-15",
+        "lien": "https://www.jalarin.com/obituaries/m-lionel-roux/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-16"
+    },
+    {
+        "nom": "M. Jean-Marc Durocher",
+        "date_deces": "2026-05-15",
+        "lien": "https://www.jalarin.com/obituaries/m-jean-marc-durocher/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-16"
+    },
+    {
+        "nom": "Richard Leroux",
+        "date_deces": "2026-05-13",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/richard-leroux",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-05-16"
+    },
+    {
         "nom": "Jean Lafrenière",
         "date_deces": "2026-05-15",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/jean-lafreniere",
