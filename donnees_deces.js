@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Mme Denise Robidoux Dagenais",
+        "date_deces": "2026-05-16",
+        "lien": "https://www.jalarin.com/obituaries/mme-denise-robidoux-dagenais/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-17"
+    },
+    {
         "nom": "M. Lionel Roux",
         "date_deces": "2026-05-15",
         "lien": "https://www.jalarin.com/obituaries/m-lionel-roux/",
