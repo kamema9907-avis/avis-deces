@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Francine Delaronde",
+        "date_deces": "2026-05-15",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/francine-delaronde",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-05-18"
+    },
+    {
         "nom": "Mme Denise Robidoux Dagenais",
         "date_deces": "2026-05-16",
         "lien": "https://www.jalarin.com/obituaries/mme-denise-robidoux-dagenais/",
