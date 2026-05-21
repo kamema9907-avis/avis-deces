@@ -1,5 +1,173 @@
 const donneesDeces = [
     {
+        "nom": "Thérèse Taillefer Brunet",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1470-therese-taillefer-brunet.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Fernande Hurteau Boyer",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1471-fernande-hurteau-boyer.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Gordon R. Johnson",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1472-gordon-r-johnson.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Denise Latreille",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1473-denise-latreille.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Lise Quenneville",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1475-lise-quenneville.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Gaëtane Haineault",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1476-gaetane-haineault.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Thérèse Dolan née Lefebvre",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1477-therese-dolan-nee-lefebvre.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Theophil Stettler",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1478-theophil-stettler.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Keith Arnold Rennie  (Republished)",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1479-keith-arnold-rennie-reminder.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Nicole Lalonde Cosgrove",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1480-nicole-lalonde-cosgrove.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Didier LeMouëllic",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1481-didier-le-mouellic.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Erik Murphy",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1482-erik-murphy.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Alberte Daoust",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1483-alberte-daoust.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Marion Showers Lalonde",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1484-marion-showers-lalonde.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Marion Mason ( Bannerman)",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1485-marion-mason-bannerman.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Fernande Létourneau Dionne",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1486-fernande-letourneau-dionne.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Ruth Pringle Leduc",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1487-ruth-pringle-leduc.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Roger Jr. Parisien (Republished)",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1488-roger-jr-parisien-republished.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Yvan Legault",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1489-yvan-legault.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Lise Dumouchel Villeneuve",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1490-lise-dumouchel-villeneuve.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Mme Denise Bousquet Gagnon",
+        "date_deces": "2026-05-20",
+        "lien": "https://www.jalarin.com/obituaries/mme-denise-bousquet-gagnon/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Mme Denise Beaudry",
+        "date_deces": "2026-05-20",
+        "lien": "https://www.jalarin.com/obituaries/mme-denise-beaudry/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "Mme Sylvie Lachance",
+        "date_deces": "2026-05-20",
+        "lien": "https://www.jalarin.com/obituaries/mme-sylvie-lachance/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
+        "nom": "M. Gérald Fournier",
+        "date_deces": "2026-05-20",
+        "lien": "https://www.jalarin.com/obituaries/m-gerald-fournier/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-21"
+    },
+    {
         "nom": "Mme Yvette Samson Viau",
         "date_deces": "2026-05-20",
         "lien": "https://www.jalarin.com/obituaries/mme-yvette-samson-viau/",
