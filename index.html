@@ -17,6 +17,8 @@
             --larin-hover: #a29bfe;
             --mcgerrigle: #e17055;
             --mcgerrigle-hover: #fab1a0;
+            --rodrigue: #00b894;
+            --rodrigue-hover: #55efc4;
             --border-radius: 16px;
         }
 
@@ -89,6 +91,7 @@
         .badge.montpetit { background: var(--montpetit); }
         .badge.larin { background: var(--larin); }
         .badge.mcgerrigle { background: var(--mcgerrigle); }
+        .badge.rodrigue { background: var(--rodrigue); }
 
         .grid {
             display: grid;
@@ -113,6 +116,7 @@
         .card.montpetit-card { border-left-color: var(--montpetit); }
         .card.larin-card { border-left-color: var(--larin); }
         .card.mcgerrigle-card { border-left-color: var(--mcgerrigle); }
+        .card.rodrigue-card { border-left-color: var(--rodrigue); }
 
         .card:hover {
             transform: translateY(-5px);
@@ -147,6 +151,7 @@
         .btn.montpetit-btn { background: var(--montpetit); }
         .btn.larin-btn { background: var(--larin); }
         .btn.mcgerrigle-btn { background: var(--mcgerrigle); }
+        .btn.rodrigue-btn { background: var(--rodrigue); }
 
         .empty-state {
             grid-column: 1 / -1;
@@ -173,6 +178,7 @@
                 <span class="badge montpetit" data-salon="montpetit">E. Montpetit & fils</span>
                 <span class="badge larin" data-salon="larin">J.A. Larin & Fils</span>
                 <span class="badge mcgerrigle" data-salon="mcgerrigle">McGerrigle</span>
+                <span class="badge rodrigue" data-salon="rodrigue">Rodrigue Montpetit</span>
             </div>
         </header>
 
@@ -197,8 +203,9 @@
         } else {
             // Affichage des données
             donneesDeces.forEach(avis => {
-                const isMontpetit = avis.salon.includes("Montpetit");
+                const isMontpetit = avis.salon.includes("Montpetit") && !avis.salon.includes("Rodrigue");
                 const isLarin = avis.salon.includes("Larin");
+                const isRodrigue = avis.salon.includes("Rodrigue");
                 
                 let cardClass = "mcgerrigle-card";
                 let btnClass = "mcgerrigle-btn";
@@ -209,6 +216,9 @@
                 } else if (isLarin) {
                     cardClass = "larin-card";
                     btnClass = "larin-btn";
+                } else if (isRodrigue) {
+                    cardClass = "rodrigue-card";
+                    btnClass = "rodrigue-btn";
                 }
                 
                 // Formater la date en français
@@ -247,7 +257,8 @@
 
                 cards.forEach(card => {
                     const salonCard = card.classList.contains('montpetit-card') ? 'montpetit' :
-                                      card.classList.contains('larin-card') ? 'larin' : 'mcgerrigle';
+                                      card.classList.contains('larin-card') ? 'larin' : 
+                                      card.classList.contains('rodrigue-card') ? 'rodrigue' : 'mcgerrigle';
                     
                     if (salonsActifs.includes(salonCard)) {
                         card.style.display = 'flex';

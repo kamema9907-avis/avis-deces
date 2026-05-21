@@ -198,6 +198,47 @@ def scrape_mcgerrigle():
             
     return nouveaux_avis
 
+def scrape_rodrigue():
+    print("Scraping Rodrigue Montpetit...")
+    url = "https://www.rodriguemontpetitfils.com/fr/avis-de-deces.html"
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        if response.status_code != 200:
+            print(f"Erreur d'accès à Rodrigue Montpetit (Status: {response.status_code})")
+            return []
+    except Exception as e:
+        print(f"Erreur d'accès à Rodrigue Montpetit: {e}")
+        return []
+        
+    soup = BeautifulSoup(response.text, 'html.parser')
+    nouveaux_avis = []
+    
+    # Trouver tous les titres h4 qui contiennent un lien
+    titres = soup.find_all('h4')
+    
+    for titre in titres:
+        link = titre.find('a')
+        if not link:
+            continue
+            
+        href = link.get('href')
+        if href and href.startswith('/'):
+            href = "https://www.rodriguemontpetitfils.com" + href
+            
+        nom = link.text.strip()
+        
+        if nom:
+            nouveaux_avis.append({
+                'nom': nom,
+                'date_deces': '', # Date exacte pas toujours affichée sur l'accueil
+                'lien': href,
+                'salon': 'Rodrigue Montpetit & Fils'
+            })
+            
+    return nouveaux_avis
+
 def main():
     print("Démarrage du scan quotidien...")
     existants = load_existing_data()
@@ -208,8 +249,9 @@ def main():
     avis_montpetit = scrape_montpetit()
     avis_larin = scrape_larin()
     avis_mcgerrigle = scrape_mcgerrigle()
+    avis_rodrigue = scrape_rodrigue()
     
-    tous_les_nouveaux = avis_montpetit + avis_larin + avis_mcgerrigle
+    tous_les_nouveaux = avis_montpetit + avis_larin + avis_mcgerrigle + avis_rodrigue
     
     aujourdhui_str = datetime.now().strftime('%Y-%m-%d')
     
