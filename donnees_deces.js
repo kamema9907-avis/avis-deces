@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Huguette Trépanier Brunet",
+        "date_deces": "2026-05-12",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/huguette-trepanier-brunet",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-05-23"
+    },
+    {
+        "nom": "Benoit Pinard",
+        "date_deces": "2026-05-19",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/benoit-pinard",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-05-23"
+    },
+    {
         "nom": "Denise Hurteau Legros",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1491-denise-hurteau-legros.html?catid=34:avis-de-deces&Itemid=431",
