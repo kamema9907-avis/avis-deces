@@ -1,5 +1,47 @@
 [
     {
+        "nom": "Mme Micheline Laurin",
+        "date_deces": "2026-05-25",
+        "lien": "https://www.jalarin.com/obituaries/mme-micheline-laurin/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-26"
+    },
+    {
+        "nom": "M. Daniel Loiselle",
+        "date_deces": "2026-05-25",
+        "lien": "https://www.jalarin.com/obituaries/m-daniel-loiselle/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-26"
+    },
+    {
+        "nom": "Mme Ghislaine Grenon",
+        "date_deces": "2026-05-26",
+        "lien": "https://www.jalarin.com/obituaries/mme-ghislaine-grenon/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-26"
+    },
+    {
+        "nom": "M. Mario Robineault",
+        "date_deces": "2026-05-26",
+        "lien": "https://www.jalarin.com/obituaries/m-mario-robineault/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-26"
+    },
+    {
+        "nom": "M. Yves Goyette",
+        "date_deces": "2026-05-26",
+        "lien": "https://www.jalarin.com/obituaries/m-yves-goyette/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-26"
+    },
+    {
+        "nom": "Pierre Lecavalier",
+        "date_deces": "2026-05-19",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/pierre-lecavalier",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-05-26"
+    },
+    {
         "nom": "Monique Haineault",
         "date_deces": "2026-05-22",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/monique-haineault",
