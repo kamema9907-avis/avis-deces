@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "M. Bernard Giroux",
+        "date_deces": "2026-05-27",
+        "lien": "https://www.jalarin.com/obituaries/m-bernard-giroux-2/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-28"
+    },
+    {
         "nom": "Mme Micheline Laurin",
         "date_deces": "2026-05-25",
         "lien": "https://www.jalarin.com/obituaries/mme-micheline-laurin/",
