@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Mme Pierrette Lavoie Daoust",
+        "date_deces": "2026-05-28",
+        "lien": "https://www.jalarin.com/obituaries/mme-pierrette-lavoie-daoust/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-29"
+    },
+    {
+        "nom": "Réal \"Mano\" Poirier",
+        "date_deces": "2026-05-26",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/real-mano-poirier",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-05-29"
+    },
+    {
         "nom": "M. Bernard Giroux",
         "date_deces": "2026-05-27",
         "lien": "https://www.jalarin.com/obituaries/m-bernard-giroux-2/",
