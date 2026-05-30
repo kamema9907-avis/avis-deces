@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Mme Anna Chiodini",
+        "date_deces": "2026-05-29",
+        "lien": "https://www.jalarin.com/obituaries/mme-anna-chiodini/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-05-30"
+    },
+    {
+        "nom": "Carole Langlois",
+        "date_deces": "2026-05-16",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/carole-langlois-0",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-05-30"
+    },
+    {
+        "nom": "Eileen Cousineau",
+        "date_deces": "2026-05-27",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/eileen-cousineau",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-05-30"
+    },
+    {
         "nom": "Mme Huguette Guionnet Rochefort",
         "date_deces": "2026-05-29",
         "lien": "https://www.jalarin.com/obituaries/mme-huguette-guionnet-rochefort/",
