@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "M. Gilles Durnin",
+        "date_deces": "2026-06-01",
+        "lien": "https://www.jalarin.com/obituaries/m-gilles-durnin/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-01"
+    },
+    {
         "nom": "Thérèse Lepage",
         "date_deces": "2026-05-27",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/therese-lepage",
