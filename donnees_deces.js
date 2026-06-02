@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Denis Leduc",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1492-denis-leduc.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-06-02"
+    },
+    {
         "nom": "Jean «Ti-Jean» André",
         "date_deces": "2026-05-29",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/jean-ti-jean-andre",
