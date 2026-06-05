@@ -1,5 +1,40 @@
 const donneesDeces = [
     {
+        "nom": "Doris Courchesne (née Smith)",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1494-doris-courchesne-nee-smith-2.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-06-05"
+    },
+    {
+        "nom": "M. Ronald Durand",
+        "date_deces": "2026-06-03",
+        "lien": "https://www.jalarin.com/obituaries/m-ronald-durand/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-05"
+    },
+    {
+        "nom": "Mme Laura Dubaere Legault",
+        "date_deces": "2026-06-03",
+        "lien": "https://www.jalarin.com/obituaries/mme-laura-dubaere-legault/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-05"
+    },
+    {
+        "nom": "Mme Lucie Julien",
+        "date_deces": "2026-06-04",
+        "lien": "https://www.jalarin.com/obituaries/mme-lucie-julien/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-05"
+    },
+    {
+        "nom": "Ronnie Dariel Beltre Gonzalez",
+        "date_deces": "2026-05-28",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/ronnie-dariel-beltre-gonzalez",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-06-05"
+    },
+    {
         "nom": "Denis Leduc",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1492-denis-leduc.html?catid=34:avis-de-deces&Itemid=431",
