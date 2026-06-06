@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Mme Gwendoline Simmonds Campbell",
+        "date_deces": "2026-06-05",
+        "lien": "https://www.jalarin.com/obituaries/mme-gwendoline-simmonds-campbell/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-06"
+    },
+    {
+        "nom": "M. Médard Deschambault",
+        "date_deces": "2026-06-05",
+        "lien": "https://www.jalarin.com/obituaries/m-medard-deschambault/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-06"
+    },
+    {
+        "nom": "Isabelle Rancourt",
+        "date_deces": "2026-06-02",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/isabelle-rancourt",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-06-06"
+    },
+    {
         "nom": "Doris Courchesne (née Smith)",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1494-doris-courchesne-nee-smith-2.html?catid=34:avis-de-deces&Itemid=431",
