@@ -1,5 +1,33 @@
 [
     {
+        "nom": "Gerald Knox",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1495-gerald-knox.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-06-10"
+    },
+    {
+        "nom": "Mme Lyne Parent",
+        "date_deces": "2026-06-09",
+        "lien": "https://www.jalarin.com/obituaries/mme-lyne-parent/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-10"
+    },
+    {
+        "nom": "Lise Bourassa",
+        "date_deces": "2026-06-06",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/lise-bourassa",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-06-10"
+    },
+    {
+        "nom": "Sylvie Ranger",
+        "date_deces": "2026-06-07",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/sylvie-ranger",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-06-10"
+    },
+    {
         "nom": "M. Rolland Legault",
         "date_deces": "2026-06-08",
         "lien": "https://www.jalarin.com/obituaries/m-rolland-legault/",
