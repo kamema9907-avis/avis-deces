@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Claude Lafleur",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1496-claude-lafleur.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-06-12"
+    },
+    {
+        "nom": "M. Pierre Leboeuf",
+        "date_deces": "2026-06-11",
+        "lien": "https://www.jalarin.com/obituaries/m-pierre-leboeuf/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-12"
+    },
+    {
         "nom": "M. Jean-Louis Lacelle",
         "date_deces": "2026-06-10",
         "lien": "https://www.jalarin.com/obituaries/m-jean-louis-lacelle/",
