@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "M. Maurice Des Alliers",
+        "date_deces": "2026-06-15",
+        "lien": "https://www.jalarin.com/obituaries/m-maurice-des-alliers/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-15"
+    },
+    {
+        "nom": "M. Claude Perras",
+        "date_deces": "2026-06-15",
+        "lien": "https://www.jalarin.com/obituaries/m-claude-perras/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-15"
+    },
+    {
         "nom": "Mme Jeanne Claveau",
         "date_deces": "2026-06-12",
         "lien": "https://www.jalarin.com/obituaries/mme-jeanne-claveau/",
