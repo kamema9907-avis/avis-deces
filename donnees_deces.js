@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Jeannette Dumas Métras, 1931–2026",
+        "date_deces": "2026-06-15",
+        "lien": "https://www.mcgerrigle.com/2026/06/15/jeannette-dumas-metras-1931-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-06-16"
+    },
+    {
+        "nom": "Denis Collins",
+        "date_deces": "2026-06-12",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/denis-collins",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-06-16"
+    },
+    {
+        "nom": "Monique D'amour",
+        "date_deces": "2026-06-12",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/monique-damour",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-06-16"
+    },
+    {
         "nom": "M. Maurice Des Alliers",
         "date_deces": "2026-06-15",
         "lien": "https://www.jalarin.com/obituaries/m-maurice-des-alliers/",
