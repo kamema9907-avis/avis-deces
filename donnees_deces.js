@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Marie-Claire Charette Perrier",
+        "date_deces": "2026-06-13",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/marie-claire-charette-perrier",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-06-17"
+    },
+    {
         "nom": "Jeannette Dumas Métras, 1931–2026",
         "date_deces": "2026-06-15",
         "lien": "https://www.mcgerrigle.com/2026/06/15/jeannette-dumas-metras-1931-2026/",
