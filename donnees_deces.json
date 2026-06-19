@@ -1,5 +1,54 @@
 [
     {
+        "nom": "Kevin Dineen",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1497-kevin-dineen.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-06-19"
+    },
+    {
+        "nom": "Mme Ghislaine Bilodeau Gauthier",
+        "date_deces": "2026-06-16",
+        "lien": "https://www.jalarin.com/obituaries/mme-ghislaine-bilodeau-gauthier/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-19"
+    },
+    {
+        "nom": "M. Alain St-Onge",
+        "date_deces": "2026-06-16",
+        "lien": "https://www.jalarin.com/obituaries/m-alain-st-onge/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-19"
+    },
+    {
+        "nom": "M. André Poissant",
+        "date_deces": "2026-06-18",
+        "lien": "https://www.jalarin.com/obituaries/m-andre-poissant/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-19"
+    },
+    {
+        "nom": "Mme Denise Tremblay",
+        "date_deces": "2026-06-18",
+        "lien": "https://www.jalarin.com/obituaries/mme-denise-tremblay/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-06-19"
+    },
+    {
+        "nom": "Josaphat Ducas",
+        "date_deces": "2026-06-12",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/josaphat-ducas",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-06-19"
+    },
+    {
+        "nom": "Lise Crevier",
+        "date_deces": "2026-06-15",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/lise-crevier",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-06-19"
+    },
+    {
         "nom": "Marie-Claire Charette Perrier",
         "date_deces": "2026-06-13",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/marie-claire-charette-perrier",
