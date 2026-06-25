@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Ronald Rabideau, June 6, 1948 – June 18, 2026",
+        "date_deces": "2026-06-25",
+        "lien": "https://www.mcgerrigle.com/2026/06/25/ronald-rabideau-june-6-1948-june-18-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-06-25"
+    },
+    {
         "nom": "Reina Richer Rodrigue",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1503-reina-richer-rodrigue.html?catid=34:avis-de-deces&Itemid=431",
