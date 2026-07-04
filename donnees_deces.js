@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Gaby \"Nini\" Gagnier Guérin",
+        "date_deces": "2026-06-30",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/gaby-nini-gagnier-guerin",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-07-04"
+    },
+    {
+        "nom": "Thérèse Gobeil",
+        "date_deces": "2026-06-30",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/therese-gobeil",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-07-04"
+    },
+    {
         "nom": "M. Claude Thibault",
         "date_deces": "2026-07-02",
         "lien": "https://www.jalarin.com/obituaries/m-claude-thibault-2/",
