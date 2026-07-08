@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Mme Francis Winter Desrochers",
+        "date_deces": "2026-07-07",
+        "lien": "https://www.jalarin.com/obituaries/mme-francis-winter-desrochers/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-08"
+    },
+    {
         "nom": "Marielle Quesnel Brunet",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1507-marielle-quesnel-brunet.html?catid=34:avis-de-deces&Itemid=431",
