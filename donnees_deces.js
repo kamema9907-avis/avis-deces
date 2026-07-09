@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Lucie Parent Couillard",
+        "date_deces": "2026-07-07",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/lucie-parent-couillard",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-07-09"
+    },
+    {
         "nom": "Mme Francis Winter Desrochers",
         "date_deces": "2026-07-07",
         "lien": "https://www.jalarin.com/obituaries/mme-francis-winter-desrochers/",
