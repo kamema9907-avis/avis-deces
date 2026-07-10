@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "M. Gilles Gagné",
+        "date_deces": "2026-07-09",
+        "lien": "https://www.jalarin.com/obituaries/m-gilles-gagne-2/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-10"
+    },
+    {
         "nom": "Lucie Parent Couillard",
         "date_deces": "2026-07-07",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/lucie-parent-couillard",
