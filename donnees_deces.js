@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Fabien Tétreault, 1963–2026",
+        "date_deces": "2026-07-14",
+        "lien": "https://www.mcgerrigle.com/2026/07/14/fabien-tetreault-1963-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-07-15"
+    },
+    {
+        "nom": "Mme Simonne Leboeuf Labelle",
+        "date_deces": "2026-07-14",
+        "lien": "https://www.jalarin.com/obituaries/mme-simonne-leboeuf-labelle/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-15"
+    },
+    {
+        "nom": "Claude Paiement",
+        "date_deces": "2026-07-10",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/claude-paiement",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-07-15"
+    },
+    {
         "nom": "Mme Lucille Levac Lavigne",
         "date_deces": "2026-07-14",
         "lien": "https://www.jalarin.com/obituaries/mme-lucille-levac-lavigne/",
