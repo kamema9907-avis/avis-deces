@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Guy Dumas",
+        "date_deces": "2026-07-14",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/guy-dumas",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-07-17"
+    },
+    {
         "nom": "Marc Tanguay",
         "date_deces": "2026-07-06",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/marc-tanguay",
