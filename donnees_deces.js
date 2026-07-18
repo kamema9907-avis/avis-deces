@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Mme Lise Duval Sansoucy",
+        "date_deces": "2026-07-17",
+        "lien": "https://www.jalarin.com/obituaries/mme-lise-duval-sansoucy/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-18"
+    },
+    {
+        "nom": "M. Gérard de Luca",
+        "date_deces": "2026-07-17",
+        "lien": "https://www.jalarin.com/obituaries/m-gerard-de-luca/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-18"
+    },
+    {
         "nom": "Guy Dumas",
         "date_deces": "2026-07-14",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/guy-dumas",
