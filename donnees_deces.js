@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Jean-Guy Thomas, 27 décembre, 1960 – 17 juillet, 2026",
+        "date_deces": "2026-07-20",
+        "lien": "https://www.mcgerrigle.com/2026/07/20/jean-guy-thomas-27-decembre-1960-17-juillet-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-07-21"
+    },
+    {
+        "nom": "Mme Pierrette Sauvé Tremblay",
+        "date_deces": "2026-07-20",
+        "lien": "https://www.jalarin.com/obituaries/mme-pierrette-sauve-tremblay/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-21"
+    },
+    {
+        "nom": "M. Gaétan Rolland",
+        "date_deces": "2026-07-20",
+        "lien": "https://www.jalarin.com/obituaries/m-gaetan-rolland/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-21"
+    },
+    {
         "nom": "Mme Lise Duval Sansoucy",
         "date_deces": "2026-07-17",
         "lien": "https://www.jalarin.com/obituaries/mme-lise-duval-sansoucy/",
