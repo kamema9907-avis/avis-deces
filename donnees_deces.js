@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Ghislaine Hurley Cardin",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1508-ghislaine-hurley-cardin.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-07-22"
+    },
+    {
+        "nom": "Jocelyne Deguire",
+        "date_deces": "2026-07-20",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/jocelyne-deguire",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-07-22"
+    },
+    {
         "nom": "Jean-Guy Thomas, 27 décembre, 1960 – 17 juillet, 2026",
         "date_deces": "2026-07-20",
         "lien": "https://www.mcgerrigle.com/2026/07/20/jean-guy-thomas-27-decembre-1960-17-juillet-2026/",
