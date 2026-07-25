@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Roger Leroux",
+        "date_deces": "2026-07-08",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/roger-leroux-0",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-07-25"
+    },
+    {
+        "nom": "Lucien Lussier",
+        "date_deces": "2026-07-20",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/lucien-lussier",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-07-25"
+    },
+    {
         "nom": "M. Jean Bélanger",
         "date_deces": "2026-07-23",
         "lien": "https://www.jalarin.com/obituaries/m-jean-belanger/",
