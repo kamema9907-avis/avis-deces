@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Simonne Leboeuf Labelle ** Remerciements**",
+        "date_deces": "2026-07-27",
+        "lien": "https://www.jalarin.com/obituaries/simonne-leboeuf-labelle-remerciements/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-28"
+    },
+    {
         "nom": "Roger Leroux",
         "date_deces": "2026-07-08",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/roger-leroux-0",
