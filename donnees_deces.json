@@ -1,5 +1,26 @@
 [
     {
+        "nom": "Danny Poirier",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1509-danny-poirier.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-07-29"
+    },
+    {
+        "nom": "Mme Alice Labelle",
+        "date_deces": "2026-07-28",
+        "lien": "https://www.jalarin.com/obituaries/mme-alice-labelle/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-29"
+    },
+    {
+        "nom": "Mme Thérèse Poirier Carrière",
+        "date_deces": "2026-07-28",
+        "lien": "https://www.jalarin.com/obituaries/mme-therese-poirier-carriere/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-29"
+    },
+    {
         "nom": "Simonne Leboeuf Labelle ** Remerciements**",
         "date_deces": "2026-07-27",
         "lien": "https://www.jalarin.com/obituaries/simonne-leboeuf-labelle-remerciements/",
