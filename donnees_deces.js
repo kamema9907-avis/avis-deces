@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Mme Rachel Usereau",
+        "date_deces": "2026-07-29",
+        "lien": "https://www.jalarin.com/obituaries/mme-rachel-usereau/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-07-29"
+    },
+    {
         "nom": "Danny Poirier",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1509-danny-poirier.html?catid=34:avis-de-deces&Itemid=431",
