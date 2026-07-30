@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Adam Aitkens",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1510-adam-aitkens.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-07-30"
+    },
+    {
         "nom": "Mme Rachel Usereau",
         "date_deces": "2026-07-29",
         "lien": "https://www.jalarin.com/obituaries/mme-rachel-usereau/",
