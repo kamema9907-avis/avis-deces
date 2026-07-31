@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Jean -Réal Fournier",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1511-jean-real-fournier.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-07-31"
+    },
+    {
         "nom": "Daniel « Elvis » Ethier",
         "date_deces": "2026-07-29",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/daniel-elvis-ethier",
