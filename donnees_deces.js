@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Gisèle Beaupré (Bougie)",
+        "date_deces": "2026-07-25",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/gisele-beaupre-bougie",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-08-01"
+    },
+    {
         "nom": "Jean -Réal Fournier",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1511-jean-real-fournier.html?catid=34:avis-de-deces&Itemid=431",
