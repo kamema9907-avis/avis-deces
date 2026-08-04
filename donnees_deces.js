@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Églantine Desjardins Haineault 1925-2026",
+        "date_deces": "2026-08-03",
+        "lien": "https://www.jalarin.com/obituaries/eglantine-desjardins-haineault-1925-2026/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-04"
+    },
+    {
+        "nom": "Denis Leblanc",
+        "date_deces": "2026-08-01",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/denis-leblanc",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-08-04"
+    },
+    {
         "nom": "Gisèle Beaupré (Bougie)",
         "date_deces": "2026-07-25",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/gisele-beaupre-bougie",
