@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "M. Jean-Paul Provençal",
+        "date_deces": "2026-08-06",
+        "lien": "https://www.jalarin.com/obituaries/m-jean-paul-provencal/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-07"
+    },
+    {
         "nom": "Micheline Demers Guérin",
         "date_deces": "2026-08-01",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/micheline-demers-guerin",
