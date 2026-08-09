@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Mme Michèle (Porcheron) André",
+        "date_deces": "2026-08-08",
+        "lien": "https://www.jalarin.com/obituaries/mme-michele-porcheron-andre/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-09"
+    },
+    {
+        "nom": "Mme Hélène Lavoie Corbeil",
+        "date_deces": "2026-08-08",
+        "lien": "https://www.jalarin.com/obituaries/mme-helene-lavoie-corbeil/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-09"
+    },
+    {
         "nom": "Audrey S. Reddick (née Yule), 1929–2026",
         "date_deces": "2026-08-07",
         "lien": "https://www.mcgerrigle.com/2026/08/07/audrey-s-reddick-nee-yule-1929-2026/",
