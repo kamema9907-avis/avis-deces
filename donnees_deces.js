@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Mme Jocelyne Léger Pomerleau",
+        "date_deces": "2026-08-10",
+        "lien": "https://www.jalarin.com/obituaries/mme-jocelyne-leger-pomerleau/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-11"
+    },
+    {
         "nom": "Mme Michèle (Porcheron) André",
         "date_deces": "2026-08-08",
         "lien": "https://www.jalarin.com/obituaries/mme-michele-porcheron-andre/",
