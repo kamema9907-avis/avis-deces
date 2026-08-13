@@ -1,5 +1,33 @@
 const donneesDeces = [
     {
+        "nom": "Goldie Thelma Jean",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1512-goldie-thelma-jean.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-08-13"
+    },
+    {
+        "nom": "Mme Huguette LeBlanc Paulin",
+        "date_deces": "2026-08-12",
+        "lien": "https://www.jalarin.com/obituaries/mme-huguette-leblanc-paulin/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-13"
+    },
+    {
+        "nom": "Julie Lanteigne",
+        "date_deces": "2026-08-09",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/julie-lanteigne",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-08-13"
+    },
+    {
+        "nom": "Maurice Berniqué",
+        "date_deces": "2026-08-09",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/maurice-bernique",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-08-13"
+    },
+    {
         "nom": "1er anniversaire – Mme Josée Lalonde 1959-2025",
         "date_deces": "2026-08-11",
         "lien": "https://www.jalarin.com/obituaries/1er-anniversaire-mme-josee-lalonde-1959-2025/",
