@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Mme Monique Quesnel",
+        "date_deces": "2026-08-13",
+        "lien": "https://www.jalarin.com/obituaries/mme-monique-quesnel/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-14"
+    },
+    {
+        "nom": "Ginette L'Écuyer",
+        "date_deces": "2026-08-05",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/ginette-lecuyer",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-08-14"
+    },
+    {
         "nom": "Goldie Thelma Jean",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1512-goldie-thelma-jean.html?catid=34:avis-de-deces&Itemid=431",
