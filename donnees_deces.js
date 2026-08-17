@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Christina Linda Baskin (née White), 1947–2026",
+        "date_deces": "2026-08-16",
+        "lien": "https://www.mcgerrigle.com/2026/08/16/christina-linda-baskin-nee-white-1947-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-08-17"
+    },
+    {
         "nom": "Mme Monique Quesnel",
         "date_deces": "2026-08-13",
         "lien": "https://www.jalarin.com/obituaries/mme-monique-quesnel/",
