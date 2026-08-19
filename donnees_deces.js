@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Johanne Varin",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1514-johanne-varin-2.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-08-19"
+    },
+    {
         "nom": "Églantine Desjardins Haineault **Remerciements**",
         "date_deces": "2026-08-17",
         "lien": "https://www.jalarin.com/obituaries/eglantine-desjardins-haineault-remerciements/",
