@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Marc Lévesque, 1977–2026",
+        "date_deces": "2026-08-19",
+        "lien": "https://www.mcgerrigle.com/2026/08/19/marc-levesque-1977-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-08-20"
+    },
+    {
+        "nom": "M. Claude Perreault",
+        "date_deces": "2026-08-19",
+        "lien": "https://www.jalarin.com/obituaries/m-claude-perreault/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-20"
+    },
+    {
         "nom": "Johanne Varin",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1514-johanne-varin-2.html?catid=34:avis-de-deces&Itemid=431",
