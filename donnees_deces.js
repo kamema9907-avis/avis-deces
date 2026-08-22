@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "M. Roger Daoust",
+        "date_deces": "2026-08-21",
+        "lien": "https://www.jalarin.com/obituaries/m-roger-daoust-3/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-22"
+    },
+    {
+        "nom": "Linda Geraldine Legault (née Fournier)",
+        "date_deces": "2026-08-21",
+        "lien": "https://www.jalarin.com/obituaries/linda-geraldine-legault-nee-fournier/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-22"
+    },
+    {
+        "nom": "Claude Joly",
+        "date_deces": "2026-08-16",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/claude-joly",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-08-22"
+    },
+    {
         "nom": "M. Pierre Roy",
         "date_deces": "2026-08-20",
         "lien": "https://www.jalarin.com/obituaries/m-pierre-roy/",
