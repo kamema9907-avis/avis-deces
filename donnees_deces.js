@@ -1,5 +1,33 @@
 const donneesDeces = [
     {
+        "nom": "M. Bruno Lemieux",
+        "date_deces": "2026-08-24",
+        "lien": "https://www.jalarin.com/obituaries/m-bruno-lemieux/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-25"
+    },
+    {
+        "nom": "M. Claude Distefano",
+        "date_deces": "2026-08-24",
+        "lien": "https://www.jalarin.com/obituaries/m-claude-distefano/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-25"
+    },
+    {
+        "nom": "Claude Rousse",
+        "date_deces": "2026-08-18",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/claude-rousse",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-08-25"
+    },
+    {
+        "nom": "Claude Simard",
+        "date_deces": "2026-08-19",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/claude-simard",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-08-25"
+    },
+    {
         "nom": "David Garry Lunn, 1954–2026",
         "date_deces": "2026-08-22",
         "lien": "https://www.mcgerrigle.com/2026/08/22/david-garry-lunn-1954-2026/",
