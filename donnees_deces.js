@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Ginette Fleurent",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1515-ginette-fleurent.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-08-26"
+    },
+    {
+        "nom": "M. Pierre Brisson",
+        "date_deces": "2026-08-25",
+        "lien": "https://www.jalarin.com/obituaries/m-pierre-brisson/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-08-26"
+    },
+    {
         "nom": "M. Bruno Lemieux",
         "date_deces": "2026-08-24",
         "lien": "https://www.jalarin.com/obituaries/m-bruno-lemieux/",
