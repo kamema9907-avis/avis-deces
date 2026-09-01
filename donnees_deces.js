@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Lise DesGroseilliers (née Pinsonneault)",
+        "date_deces": "2026-08-26",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/lise-desgroseilliers-nee-pinsonneault",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-09-01"
+    },
+    {
         "nom": "Mme Simone Meus",
         "date_deces": "2026-08-29",
         "lien": "https://www.jalarin.com/obituaries/mme-simone-meus-meus/",
