@@ -1,5 +1,40 @@
 const donneesDeces = [
     {
+        "nom": "Mme Aline Legault",
+        "date_deces": "2026-09-02",
+        "lien": "https://www.jalarin.com/obituaries/mme-aline-legault/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-03"
+    },
+    {
+        "nom": "M. Laurent Bélanger",
+        "date_deces": "2026-09-02",
+        "lien": "https://www.jalarin.com/obituaries/m-laurent-belanger/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-03"
+    },
+    {
+        "nom": "M. Roger Leboeuf",
+        "date_deces": "2026-09-02",
+        "lien": "https://www.jalarin.com/obituaries/m-roger-leboeuf/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-03"
+    },
+    {
+        "nom": "Yvon Vallée",
+        "date_deces": "2026-08-28",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/yvon-vallee",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-09-03"
+    },
+    {
+        "nom": "Louise Asselin",
+        "date_deces": "2026-09-01",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/louise-asselin",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-09-03"
+    },
+    {
         "nom": "Mme Claire Pinsonneault Piché",
         "date_deces": "2026-09-01",
         "lien": "https://www.jalarin.com/obituaries/mme-claire-pinsonneault-piche/",
