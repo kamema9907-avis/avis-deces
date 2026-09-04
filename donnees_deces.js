@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Mme Lise Bourdage",
+        "date_deces": "2026-09-03",
+        "lien": "https://www.jalarin.com/obituaries/37421-2/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-04"
+    },
+    {
+        "nom": "Mme Marielle Théorêt Bériault",
+        "date_deces": "2026-09-03",
+        "lien": "https://www.jalarin.com/obituaries/mme-marielle-theoret-beriault/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-04"
+    },
+    {
+        "nom": "Mme Cécile-Rita Sauvé Paquette",
+        "date_deces": "2026-09-03",
+        "lien": "https://www.jalarin.com/obituaries/cecile-rita-sauve-paquette/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-04"
+    },
+    {
         "nom": "Mme Aline Legault",
         "date_deces": "2026-09-02",
         "lien": "https://www.jalarin.com/obituaries/mme-aline-legault/",
