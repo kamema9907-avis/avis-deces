@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Richard St-Pierre",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1518-richard-st-pierre.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-09-05"
+    },
+    {
+        "nom": "Laurette Haineault Thurston",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1519-laurette-haineault-thurston.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-09-05"
+    },
+    {
+        "nom": "M. Normand Beaulieu Ph.D.",
+        "date_deces": "2026-09-04",
+        "lien": "https://www.jalarin.com/obituaries/m-normand-beaulieu-ph-d/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-05"
+    },
+    {
         "nom": "Mme Lise Bourdage",
         "date_deces": "2026-09-03",
         "lien": "https://www.jalarin.com/obituaries/37421-2/",
