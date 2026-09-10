@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Mme Henriette Sauvé",
+        "date_deces": "2026-09-10",
+        "lien": "https://www.jalarin.com/obituaries/mme-henriette-sauve/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-10"
+    },
+    {
+        "nom": "Diane Deschambault (née Largesse)",
+        "date_deces": "2026-09-06",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/diane-deschambault-nee-largesse",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-09-10"
+    },
+    {
         "nom": "Joanne Côté Leblanc",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1520-johanne-cote.html?catid=34:avis-de-deces&Itemid=431",
