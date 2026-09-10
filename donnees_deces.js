@@ -1,5 +1,33 @@
 const donneesDeces = [
     {
+        "nom": "Joanne Côté Leblanc",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1520-johanne-cote.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-09-10"
+    },
+    {
+        "nom": "Mme Francine Fortier Paquette",
+        "date_deces": "2026-09-09",
+        "lien": "https://www.jalarin.com/obituaries/mme-francine-fortier-paquette/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-10"
+    },
+    {
+        "nom": "Mme Huguette Proulx Lafrenière",
+        "date_deces": "2026-09-09",
+        "lien": "https://www.jalarin.com/obituaries/mme-huguette-proulx-lafreniere/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-10"
+    },
+    {
+        "nom": "Mme Marguerite Théorêt Gauthier",
+        "date_deces": "2026-09-09",
+        "lien": "https://www.jalarin.com/obituaries/mme-marguerite-theoret-gauthier/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-10"
+    },
+    {
         "nom": "M. Yvon Lepage",
         "date_deces": "2026-09-08",
         "lien": "https://www.jalarin.com/obituaries/m-yvon-lepage/",
