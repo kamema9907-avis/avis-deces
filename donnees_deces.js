@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "M. Réal Filion",
+        "date_deces": "2026-09-11",
+        "lien": "https://www.jalarin.com/obituaries/m-real-filion/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-11"
+    },
+    {
         "nom": "Mme Henriette Sauvé",
         "date_deces": "2026-09-10",
         "lien": "https://www.jalarin.com/obituaries/mme-henriette-sauve/",
