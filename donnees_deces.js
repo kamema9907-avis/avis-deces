@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Fernand Latreille",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1522-fernand-latreille.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-09-19"
+    },
+    {
+        "nom": "M. Robert Desjardins",
+        "date_deces": "2026-09-18",
+        "lien": "https://www.jalarin.com/obituaries/m-robert-desjardins/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-19"
+    },
+    {
         "nom": "M. Ronald Ménard",
         "date_deces": "2026-09-17",
         "lien": "https://www.jalarin.com/obituaries/ronald-menard/",
