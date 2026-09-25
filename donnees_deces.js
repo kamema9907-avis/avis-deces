@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Jeannette Miljour, 1967-2026",
+        "date_deces": "2026-09-24",
+        "lien": "https://www.mcgerrigle.com/2026/09/24/jeannette-miljour-1967-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-09-25"
+    },
+    {
+        "nom": "Mme Nicole Leduc Gagnon",
+        "date_deces": "2026-09-24",
+        "lien": "https://www.jalarin.com/obituaries/mme-niocle-leduc-gagnon/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-25"
+    },
+    {
         "nom": "Pierre-Paul Poirier",
         "date_deces": "2026-09-19",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/pierre-paul-poirier",
