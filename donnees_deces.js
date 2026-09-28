@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Betty-Ann Evelyn Harland (née Soucis)",
+        "date_deces": "2026-09-28",
+        "lien": "https://www.jalarin.com/obituaries/betty-ann-evelyn-harland-nee-soucis/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-28"
+    },
+    {
         "nom": "M. Oréal Vigneux",
         "date_deces": "2026-09-25",
         "lien": "https://www.jalarin.com/obituaries/m-oreal-vigneux/",
