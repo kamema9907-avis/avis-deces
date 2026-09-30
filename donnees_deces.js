@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Mme Suzanne Lepage",
+        "date_deces": "2026-09-29",
+        "lien": "https://www.jalarin.com/obituaries/mme-suzanne-lepage/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-09-30"
+    },
+    {
+        "nom": "Jacqueline Gibeault (née Bourgoin)",
+        "date_deces": "2026-09-24",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/jacqueline-gibeault-nee-bourgoin",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-09-30"
+    },
+    {
         "nom": "M. Albert Langevin",
         "date_deces": "2026-09-29",
         "lien": "https://www.jalarin.com/obituaries/m-albert-langevin/",
