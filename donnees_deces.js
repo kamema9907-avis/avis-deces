@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Mariette Allen (née Dandurand), 1944-2026",
+        "date_deces": "2026-09-30",
+        "lien": "https://www.mcgerrigle.com/2026/09/30/mariette-allen-nee-dandurand-1944-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-10-01"
+    },
+    {
+        "nom": "Mme Gisèle Saumure",
+        "date_deces": "2026-09-30",
+        "lien": "https://www.jalarin.com/obituaries/mme-gisele-saumure/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-01"
+    },
+    {
         "nom": "Gérald Pelchat",
         "date_deces": "2026-09-08",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/gerald-pelchat",
