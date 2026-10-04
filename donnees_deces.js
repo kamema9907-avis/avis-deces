@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Donald Martin",
+        "date_deces": "2026-10-01",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/donald-martin",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-04"
+    },
+    {
         "nom": "Denyse Langevin",
         "date_deces": "2026-09-30",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/denyse-langevin",
