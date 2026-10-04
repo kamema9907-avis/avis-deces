@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Denyse Langevin",
+        "date_deces": "2026-09-30",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/denyse-langevin",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-04"
+    },
+    {
         "nom": "Mme Antoinette Sauvé Charlebois",
         "date_deces": "2026-10-02",
         "lien": "https://www.jalarin.com/obituaries/mme-antoinette-sauve-charlebois/",
