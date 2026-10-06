@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Joseph Hevesy",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1524-joseph-hevesy.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-10-06"
+    },
+    {
         "nom": "Donald Martin",
         "date_deces": "2026-10-01",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/donald-martin",
