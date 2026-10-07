@@ -1,5 +1,19 @@
 [
     {
+        "nom": "Mme Sandra Desgagné",
+        "date_deces": "2026-10-07",
+        "lien": "https://www.jalarin.com/obituaries/mme-sandra-desgagne/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-07"
+    },
+    {
+        "nom": "Noëlla Therrien",
+        "date_deces": "2026-10-06",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/noella-therrien",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-07"
+    },
+    {
         "nom": "Guy Lecompte",
         "date_deces": "2026-10-02",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/guy-lecompte",
