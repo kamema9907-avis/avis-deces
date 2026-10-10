@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Carole Holstein",
+        "date_deces": "2026-09-19",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/carole-holstein",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-10"
+    },
+    {
+        "nom": "Gérard St-Amand",
+        "date_deces": "2026-10-08",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/gerard-st-amand",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-10"
+    },
+    {
         "nom": "Mme Agathe Dicaire Lalonde",
         "date_deces": "2026-10-09",
         "lien": "https://www.jalarin.com/obituaries/mme-agathe-dicaire-lalonde/",
