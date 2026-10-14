@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "M. Stéphane Monger",
+        "date_deces": "2026-10-14",
+        "lien": "https://www.jalarin.com/obituaries/m-stephane-monger/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-14"
+    },
+    {
+        "nom": "Jean-Jacques \"Coco\" Landry",
+        "date_deces": "2026-10-10",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/jean-jacques-coco-landry",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-14"
+    },
+    {
         "nom": "Michel Vincent",
         "date_deces": "2026-10-12",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/michel-vincent",
