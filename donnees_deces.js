@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Cécile Léger née Renaud",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1525-cecile-leger-nee-renaud.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-10-15"
+    },
+    {
+        "nom": "Claire Fauteux Galarneau",
+        "date_deces": "2026-10-13",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/claire-fauteux-galarneau",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-15"
+    },
+    {
         "nom": "M. Éric Beaulieu",
         "date_deces": "2026-10-14",
         "lien": "https://www.jalarin.com/obituaries/m-eric-beaulieu/",
