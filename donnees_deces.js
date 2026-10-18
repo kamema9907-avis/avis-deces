@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Louise «Loulou» Payant Moreau",
+        "date_deces": "2026-10-16",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/louise-loulou-payant-moreau",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-18"
+    },
+    {
         "nom": "Micheline Tremblay",
         "date_deces": "2026-10-14",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/micheline-tremblay",
