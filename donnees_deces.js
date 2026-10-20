@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "William Porter",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1528-william-porteur.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-10-20"
+    },
+    {
+        "nom": "Mme Irène Lamothe Wallace",
+        "date_deces": "2026-10-20",
+        "lien": "https://www.jalarin.com/obituaries/mme-irene-lamothe-wallace/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-20"
+    },
+    {
+        "nom": "Gisèle Lafleur",
+        "date_deces": "2026-10-18",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/gisele-lafleur",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-20"
+    },
+    {
         "nom": "Richard Alary",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1527-richard-alary-2.html?catid=34:avis-de-deces&Itemid=431",
