@@ -1,5 +1,33 @@
 const donneesDeces = [
     {
+        "nom": "Richard Alary",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1527-richard-alary-2.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-10-20"
+    },
+    {
+        "nom": "Mme Sylvie Lefebvre",
+        "date_deces": "2026-10-19",
+        "lien": "https://www.jalarin.com/obituaries/mme-sylvie-lefebvre/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-20"
+    },
+    {
+        "nom": "Mme Lucie Chatel Lalonde",
+        "date_deces": "2026-10-19",
+        "lien": "https://www.jalarin.com/obituaries/mme-lucie-chatel-lalonde/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-20"
+    },
+    {
+        "nom": "Dr. Michel N. Talbot",
+        "date_deces": "2026-10-19",
+        "lien": "https://www.jalarin.com/obituaries/dr-michel-n-talbot/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-20"
+    },
+    {
         "nom": "Louise «Loulou» Payant Moreau",
         "date_deces": "2026-10-16",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/louise-loulou-payant-moreau",
