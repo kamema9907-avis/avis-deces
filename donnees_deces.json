@@ -1,5 +1,40 @@
 [
     {
+        "nom": "Michel Dionne",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1529-michel-dionne.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-10-22"
+    },
+    {
+        "nom": "M. Jean-Claude Malvaud",
+        "date_deces": "2026-10-21",
+        "lien": "https://www.jalarin.com/obituaries/m-jean-claude-malvaud/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-22"
+    },
+    {
+        "nom": "M. Richard Robineault",
+        "date_deces": "2026-10-21",
+        "lien": "https://www.jalarin.com/obituaries/m-richard-robineault/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-22"
+    },
+    {
+        "nom": "Jean Lessard",
+        "date_deces": "2026-10-15",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/jean-lessard",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-22"
+    },
+    {
+        "nom": "Lucie Latreille",
+        "date_deces": "2026-10-19",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/lucie-latreille",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-22"
+    },
+    {
         "nom": "William Porter",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1528-william-porteur.html?catid=34:avis-de-deces&Itemid=431",
