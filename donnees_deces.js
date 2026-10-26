@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Benoit Chartrand",
+        "date_deces": "2026-10-22",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/benoit-chartrand",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-26"
+    },
+    {
         "nom": "John Steele",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1530-john-steele.html?catid=34:avis-de-deces&Itemid=431",
