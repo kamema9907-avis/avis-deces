@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Stanley Myatt",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1535-stanley-myatt.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-10-28"
+    },
+    {
+        "nom": "Francois «Dalton» Leduc",
+        "date_deces": "2026-10-26",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/francois-dalton-leduc",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-28"
+    },
+    {
+        "nom": "Guy « Charley » Laflamme",
+        "date_deces": "2026-10-26",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/guy-charley-laflamme",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-10-28"
+    },
+    {
         "nom": "Eileen Russell",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1531-eileen-russell.html?catid=34:avis-de-deces&Itemid=431",
