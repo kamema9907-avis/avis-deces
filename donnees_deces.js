@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Mme Noémi Théorêt",
+        "date_deces": "2026-10-30",
+        "lien": "https://www.jalarin.com/obituaries/mme-noemi-theoret/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-10-30"
+    },
+    {
         "nom": "Yvon Legault",
         "date_deces": "2026-10-29",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/yvon-legault",
