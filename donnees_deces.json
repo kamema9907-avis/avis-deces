@@ -1,5 +1,19 @@
 [
     {
+        "nom": "Larry Dear",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1536-larry-dear.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-11-03"
+    },
+    {
+        "nom": "Denise Isabelle",
+        "date_deces": "2026-10-08",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/denise-isabelle",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-03"
+    },
+    {
         "nom": "Robert Dignard",
         "date_deces": "2026-10-26",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/robert-dignard",
