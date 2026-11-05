@@ -1,5 +1,40 @@
 const donneesDeces = [
     {
+        "nom": "Gail Pearce née Godin",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1537-gail-pearce-nee-godin.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-11-05"
+    },
+    {
+        "nom": "Mme Delta Lee Demetrius",
+        "date_deces": "2026-11-04",
+        "lien": "https://www.jalarin.com/obituaries/mme-delta-lee-demetrius/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-11-05"
+    },
+    {
+        "nom": "M. Paul Guay",
+        "date_deces": "2026-11-04",
+        "lien": "https://www.jalarin.com/obituaries/m-paul-guay/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-11-05"
+    },
+    {
+        "nom": "Serge Hamel",
+        "date_deces": "2026-10-28",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/serge-hamel",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-05"
+    },
+    {
+        "nom": "Chantal Lemay Lemaire",
+        "date_deces": "2026-11-02",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/chantal-lemay-lemaire",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-05"
+    },
+    {
         "nom": "Mme Suzanne Asselin",
         "date_deces": "2026-11-03",
         "lien": "https://www.jalarin.com/obituaries/mme-suzanne-asselin/",
