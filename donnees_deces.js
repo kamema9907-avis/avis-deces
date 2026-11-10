@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Gail Billings 1951-2026",
+        "date_deces": "2026-11-09",
+        "lien": "https://www.mcgerrigle.com/2026/11/09/gail-billings-1951-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-11-10"
+    },
+    {
         "nom": "Donna Mae Wilkes",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1539-donna-mae-wilkes.html?catid=34:avis-de-deces&Itemid=431",
