@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Jean-Claude ''Patcho'' Faubert",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1541-jean-claude-patcho-faubert-2.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-11-11"
+    },
+    {
         "nom": "M. Marco Loyer",
         "date_deces": "2026-11-10",
         "lien": "https://www.jalarin.com/obituaries/m-marco-loyer/",
