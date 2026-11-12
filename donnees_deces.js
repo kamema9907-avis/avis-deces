@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Guy Laparé",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1542-guy-lapare.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-11-12"
+    },
+    {
+        "nom": "Mme Irène Jeannotte",
+        "date_deces": "2026-11-12",
+        "lien": "https://www.jalarin.com/obituaries/mme-irene-jeannotte/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-11-12"
+    },
+    {
+        "nom": "Marjolaine Plante",
+        "date_deces": "2026-11-10",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/marjolaine-plante",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-12"
+    },
+    {
         "nom": "Jean-Claude ''Patcho'' Faubert",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1541-jean-claude-patcho-faubert-2.html?catid=34:avis-de-deces&Itemid=431",
