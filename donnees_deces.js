@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Gérard \"Gerry\" Fournier",
+        "date_deces": "2026-11-13",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/gerard-gerry-fournier",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-16"
+    },
+    {
         "nom": "Anne Tolhurst Logan 1940-2026",
         "date_deces": "2026-11-14",
         "lien": "https://www.mcgerrigle.com/2026/11/14/anne-tolhurst-logan-1940-2026/",
