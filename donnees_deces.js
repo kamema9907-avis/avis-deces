@@ -1,5 +1,26 @@
 const donneesDeces = [
     {
+        "nom": "Greta Marjorie Orr (née Thompson) 1929-2026",
+        "date_deces": "2026-11-19",
+        "lien": "https://www.mcgerrigle.com/2026/11/19/greta-marjorie-orr-nee-thompson-1929-2026/",
+        "salon": "Résidence funéraire McGerrigle",
+        "date_publication": "2026-11-19"
+    },
+    {
+        "nom": "M. Gilles Pépin",
+        "date_deces": "2026-11-19",
+        "lien": "https://www.jalarin.com/obituaries/m-gilles-pepin/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-11-19"
+    },
+    {
+        "nom": "Mme Grace Fields Villemaire",
+        "date_deces": "2026-11-19",
+        "lien": "https://www.jalarin.com/obituaries/mme-grace-fields-villemaire/",
+        "salon": "J.A. Larin & Fils",
+        "date_publication": "2026-11-19"
+    },
+    {
         "nom": "Linda Glover Arseneault",
         "date_deces": "2026-11-18",
         "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/linda-glover-arseneault",
