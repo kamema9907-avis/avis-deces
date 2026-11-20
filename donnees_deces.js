@@ -1,5 +1,19 @@
 const donneesDeces = [
     {
+        "nom": "Denis Laframboise",
+        "date_deces": "2026-11-16",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/denis-laframboise",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-20"
+    },
+    {
+        "nom": "Nathalie Goudreau",
+        "date_deces": "2026-11-16",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/nathalie-goudreau",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-20"
+    },
+    {
         "nom": "Greta Marjorie Orr (née Thompson) 1929-2026",
         "date_deces": "2026-11-19",
         "lien": "https://www.mcgerrigle.com/2026/11/19/greta-marjorie-orr-nee-thompson-1929-2026/",
