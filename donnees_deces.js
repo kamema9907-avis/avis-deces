@@ -1,5 +1,33 @@
 const donneesDeces = [
     {
+        "nom": "Nancy McClenaghan",
+        "date_deces": "",
+        "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1545-nancy-mcclenaghan.html?catid=34:avis-de-deces&Itemid=431",
+        "salon": "Rodrigue Montpetit & Fils",
+        "date_publication": "2026-11-23"
+    },
+    {
+        "nom": "Marcel Lemieux",
+        "date_deces": "2026-11-19",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/marcel-lemieux",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-23"
+    },
+    {
+        "nom": "Clarisse Béland (née Fortin)",
+        "date_deces": "2026-11-20",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/clarisse-beland-nee-fortin",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-23"
+    },
+    {
+        "nom": "Pauline Lavoie (née Leblanc)",
+        "date_deces": "2026-11-22",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/pauline-lavoie-nee-leblanc",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-23"
+    },
+    {
         "nom": "Marie Thérèse Legault née Picard",
         "date_deces": "",
         "lien": "https://www.rodriguemontpetitfils.com/fr/component/content/article/1544-marie-therese-legault-nee-picard.html?catid=34:avis-de-deces&Itemid=431",
