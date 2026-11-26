@@ -1,5 +1,12 @@
 const donneesDeces = [
     {
+        "nom": "Madame Marguerite Brault Goupil",
+        "date_deces": "2026-11-25",
+        "lien": "https://avisdeces.emontpetit-fils.ca/avis/web/avis-de-deces/madame-marguerite-brault-goupil",
+        "salon": "E. Montpetit & fils",
+        "date_publication": "2026-11-26"
+    },
+    {
         "nom": "Mme Pauline Madore Landry",
         "date_deces": "2026-11-25",
         "lien": "https://www.jalarin.com/obituaries/mme-pauline-madore-landry/",
